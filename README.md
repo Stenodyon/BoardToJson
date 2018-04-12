@@ -1,5 +1,5 @@
 # BoardToJson
-Convers TUNG boards to Json format, and vice-versa.
+Converts TUNG boards to Json format, and vice-versa.
 
 ## Installation
 
